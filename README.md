@@ -85,7 +85,7 @@ Deploy easily using:
 
 👩‍💻 Author
 
-Harshitha Hegde
+KRITIKA MANANI
 
 ---
 
