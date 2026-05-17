@@ -1,16 +1,94 @@
-# React + Vite
+🚀 PlacementPro AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium AI-powered Placement Management Dashboard inspired by modern SaaS platforms like Quantix, Linear, and Vercel.
 
-Currently, two official plugins are available:
+🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🔐 Login Screen
+- 📊 Premium Dashboard UI
+- 🤖 AI Assistant Section
+- 📄 Resume Upload System
+- 💼 Job Opportunities Page
+- 🔔 Notifications Section
+- 📈 ATS Score Dashboard
+- 🎯 Interview Preparation
+- 📱 Responsive Design
+- 🌌 Glassmorphism & Gradient UI
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- Tailwind CSS
+- React Icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+📂 Project Setup
+
+1️⃣ Clone Repository
+
+git clone YOUR_GITHUB_REPOSITORY_LINK
+
+2️⃣ Open Project
+
+cd placementpro
+
+3️⃣ Install Dependencies
+
+npm install
+
+4️⃣ Run Project
+
+npm run dev
+
+---
+
+🌐 Live Demo
+
+Add your deployed Vercel link here
+
+---
+
+📸 Dashboard Preview
+
+- Premium dark theme
+- Modern SaaS design
+- AI-based placement platform
+- Interactive dashboard
+
+---
+
+📁 Folder Structure
+
+placementpro/
+├── src/
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── public/
+├── package.json
+└── vite.config.js
+
+---
+
+🚀 Deployment
+
+Deploy easily using:
+
+- Vercel
+- Netlify
+
+---
+
+👩‍💻 Author
+
+Harshitha Hegde
+
+---
+
+📜 License
+
+This project is for educational and portfolio purposes.
